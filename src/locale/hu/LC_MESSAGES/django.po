@@ -29,7 +29,7 @@ msgstr "Add meg a jelszavad"
 #: .\src\accounts\forms.py:32 .\src\templates\base.html:69
 #: .\src\templates\registration\password_reset_complete.html:18
 msgid "Log in"
-msgstr ""
+msgstr "Bejelentkezés!"
 
 #: .\src\accounts\forms.py:50
 msgid ""
