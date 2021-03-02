@@ -29,7 +29,7 @@ msgstr "Add meg a jelszavad"
 #: .\src\accounts\forms.py:32 .\src\templates\base.html:69
 #: .\src\templates\registration\password_reset_complete.html:18
 msgid "Log in"
-msgstr ""
+msgstr "Bejelentkezés"
 
 #: .\src\accounts\forms.py:50
 msgid ""
@@ -96,7 +96,7 @@ msgstr "Üdvözlünk az EU-Citizen.Science oldalán"
 
 #: .\src\blog\templates\blog.html:37
 msgid "Read More"
-msgstr "Olvass tovább!"
+msgstr "Tudj meg többet!"
 
 #: .\src\contact\templates\contact.html:10
 #: .\src\contact\templates\contact.html:19
