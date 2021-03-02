@@ -96,7 +96,7 @@ msgstr "Üdvözlünk az EU-Citizen.Science oldalán"
 
 #: .\src\blog\templates\blog.html:37
 msgid "Read More"
-msgstr "Olvass tovább!"
+msgstr "Tudj meg többet!"
 
 #: .\src\contact\templates\contact.html:10
 #: .\src\contact\templates\contact.html:19
