@@ -537,7 +537,7 @@ msgstr "Érdeklődési terület"
 
 #: .\src\projects\forms.py:21
 msgid "Short name or title of the project"
-msgstr ""
+msgstr "A projekt címe"
 
 #: .\src\projects\forms.py:24
 msgid ""
@@ -665,7 +665,7 @@ msgstr ""
 
 #: .\src\projects\forms.py:100
 msgid "Project Logo"
-msgstr ""
+msgstr "Projekt logó"
 
 #: .\src\projects\forms.py:101
 msgid "Will be resized to 600x400 pixels)"
